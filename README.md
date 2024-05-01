@@ -1,7 +1,7 @@
 # Hi there, I'm Anubhav Kumar 👋
 
 ## About Me
-I am a passionate Electronics Engineer, Graphic Designer, Video Editor, and Full Stack Developer from [Your City, Country]. With a diverse skill set and a keen interest in technology, design, and development, I love to create innovative solutions that make an impact.
+I am a passionate Electronics Engineer, Graphic Designer, Video Editor, and Full Stack Developer from India. With a diverse skill set and a keen interest in technology, design, and development, I love to create innovative solutions that make an impact.
 
 - 🔭 I’m currently working on a ecommerce webstore application.
 - 🌱 I’m currently learning angularJS.
