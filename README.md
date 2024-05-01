@@ -32,7 +32,7 @@ I am a passionate Electronics Engineer, Graphic Designer, Video Editor, and Full
 - Version Control (Git, GitHub)
 
 ## Projects
-- lagomBlog mernblog7.onrender.com - Lagom Blog! Here, you can explore a rich variety of articles and resources covering a wide range of programming languages. Whether you're a beginner eager to learn the basics or an experienced coder seeking advanced insights, we've got you covered.
+- lagomBlog (mernblog7.onrender.com) - Lagom Blog! Here, you can explore a rich variety of articles and resources covering a wide range of programming languages. Whether you're a beginner eager to learn the basics or an experienced coder seeking advanced insights, we've got you covered.
 - [Project 2](Link to Project 2) - Short description of the project.
 - [Project 3](Link to Project 3) - Short description of the project.
 
