@@ -39,7 +39,7 @@ I am a passionate Electronics Engineer, Graphic Designer, Video Editor, and Full
 ## Get in Touch
 - LinkedIn: [Your LinkedIn Profile](Link to LinkedIn Profile)
 - Portfolio: [Your Portfolio Website](Link to Portfolio Website)
-- Email: your.email@example.com
+- Email: anubhavt632@gmail.com
 
 Feel free to reach out if you have any questions or just want to chat!
 
