@@ -5,7 +5,7 @@ I am a passionate Electronics Engineer, Graphic Designer, Video Editor, and Full
 
 - 🔭 I’m currently working on a ecommerce webstore application.
 - 🌱 I’m currently learning angularJS.
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking for a job opportunity as a Full Stack Developer.
 - 💬 Ask me about anything related to Electronics, Graphic Design, Video Editing, or Full Stack Development.
 
 ## Skills
